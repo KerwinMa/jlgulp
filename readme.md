@@ -34,3 +34,4 @@ Javascript concatenation is done in the config object in the guilpfile.  This co
 
 ## .bowerrc
 Controls the location where bower packages will be installed.
+Joel Longie gaves a good demo video on youtube. Put a note here for me and anyone needs it. It's really great. You'll love it. It is very helpful.  https://www.youtube.com/watch?v=LmdT2zhFmn4
